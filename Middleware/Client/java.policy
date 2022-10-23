@@ -1,0 +1,3 @@
+grant codebase "file:/home/2020/nzende/COMP512/middleware/Client/" {
+permission java.security.AllPermission;
+};
